@@ -2,7 +2,7 @@ package PP2;
 
 import org.testng.annotations.Test;
 
-public class Class1 {
+public class Class1Test {
 
 	@Test(groups = "smoke")
 	public void m3Test() {
