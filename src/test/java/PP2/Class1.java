@@ -5,12 +5,12 @@ import org.testng.annotations.Test;
 public class Class1 {
 
 	@Test(groups = "smoke")
-	public void m3() {
+	public void m3Test() {
 		System.out.println("m3 executed");
 	}
 	
 	@Test(groups = "regression")
-	public void m4() {
+	public void m4Test() {
 		System.out.println("m4 executed");
 	}
 }
