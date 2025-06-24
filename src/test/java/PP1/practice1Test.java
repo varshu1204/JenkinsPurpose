@@ -7,6 +7,7 @@ public class practice1Test {
 	@Test(groups = "smoke")
 	public void m1Test() {
 		System.out.println("m1 executed");
+		System.out.println("kjhgfds");
 	}
 	
 	@Test(groups = "regression")
